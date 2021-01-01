@@ -1,2 +1,4 @@
 # weibo
-laravel 8.x 的简单应用
+
+01 Laravel - Web 开发实战入门 ( Laravel 6.x ) 
+
